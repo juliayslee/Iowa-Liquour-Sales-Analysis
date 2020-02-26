@@ -1,4 +1,0 @@
-"ERROR:  syntax error at or near "select"
-LINE 16: select distinct vendor, vendor_name, count(item_description)
-         ^
-"
